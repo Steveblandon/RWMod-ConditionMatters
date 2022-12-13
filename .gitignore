@@ -1,0 +1,11 @@
+/obj
+/bin
+/Properties
+.vs
+*.csproj.user
+*.user*
+info.txt
+/Tracker.txt
+UnityEngine*
+/Assemblies
+/packages
